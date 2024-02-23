@@ -1,0 +1,11 @@
+String Calculator:
+    We can start by ensuring an empty input to StringCalculator.add method that returns the value '0'
+
+Birthday Greetings:
+    First,we can implement functionality to reliably read birthday data from a file laying the groundwork for parsing and processing of that file
+
+CQRS Hotel Bookings:
+    we can begin with establishing database connectivity for the Query Service part, so we'll be able to receive or update the available rooms
+
+FizzBuzz:
+    Let's initiate the FizzBuzz solution by adding a condition to return '0' for input limits that are less than or equal to zero, ensuring basic input validation
